@@ -20,3 +20,5 @@ You must have java installed in your power shell. Big suggestion to have GitHub 
 ```
 git clone https://github.com/KaungMyatNaing9/CS330project.git
 ```
+If you have a GitHub desktop in your computer you can use
+```

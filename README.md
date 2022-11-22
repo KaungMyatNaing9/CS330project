@@ -16,9 +16,17 @@ The instructions in this README file will be for Window11 power shell or Eclipse
 You must have java installed in your power shell. Big suggestion to have GitHub desktop installed in your computer, this can make the clonning easier. If you want to ran the unit test you must have gradle installed.
 
 #### Configuration
-1.Clone the repository:
+1. Clone the repository:
 ```
 git clone https://github.com/KaungMyatNaing9/CS330project.git
 ```
 If you have a GitHub desktop in your computer you can use
 ```
+gh repo clone KaungMyatNaing9/CS330project
+```
+2. Find the files that you have clone and change directory(cd) to the file CS330project using
+```
+cd CS330project
+```
+If you are already in that directory you can skip this step.
+3. 

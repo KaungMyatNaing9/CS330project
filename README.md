@@ -45,3 +45,10 @@ For the second part and
 ```
 For the first part
 
+## Known Bugs
+1. Inputs of negative integers will mark as positive in this program
+2. Inputs with two or more numbers at a time will mark as useless and check the access code from the starting
+
+## Contact information
+Email: knaing@hawk.iit.edu
+Any questions regarding to this project can sent me an email. I am happy to answer the questions you have.

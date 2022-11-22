@@ -10,7 +10,7 @@ The first part takes the integer inputs from the user and check with the access 
 For the second part of the project instead of user input, I changed it to random number generator that will put a random number from 0 to 9. The main purpose of the second part is to test how many random inputs the device takes to unlock the device. To do that I put a status that is locked when the program ran and the program will stop when the random number generator got the access code to unlock the device. In java file for the second part is called securitydevice.java and after running this program it will output unlock and the number of times it takes to unlock this device. 
  
 ## How do I get setup?
-The instructions in this README file will be for Window11 power shell or Eclipse IDE (if you cannot ran in power shell).
+The instructions in this README file will be for Window11 power shell and Ubuntu 22.04. If your computer don't have both these running environment you can use Eclipse IDE or visual code. 
 
 #### Summary of setup
 You must have java installed in your power shell. Big suggestion to have GitHub desktop installed in your computer, this can make the clonning easier. If you want to ran the unit test you must have gradle installed.
@@ -26,7 +26,22 @@ gh repo clone KaungMyatNaing9/CS330project
 ```
 2. Find the files that you have clone and change directory(cd) to the file CS330project using
 ```
-cd CS330project
+$ cd CS330project
 ```
 If you are already in that directory you can skip this step.
-3. d
+3. You can follow the promt below to direct you to the place where I saved my programming part:
+```
+~/CS330project$ cd src
+~/CS330project/src$ cd Programming
+```
+Now you can start to run the codes.
+4. To run the codes you can use " java filename.java " as following:
+```
+~/CS330project/src/Programming$ java securitydevice.java
+```
+For the second part and
+```
+~/CS330project/src/Programming$ java coding.java
+```
+For the first part
+

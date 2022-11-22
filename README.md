@@ -45,7 +45,7 @@ For the second part and
 ```
 For the first part
 
-## Known Bugs
+## Bugs solved as
 1. Inputs of negative integers will mark as positive in this program
 2. Inputs with two or more numbers at a time will mark as useless and check the access code from the starting
 

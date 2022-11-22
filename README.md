@@ -15,3 +15,6 @@ The instructions in this README file will be for Window11 power shell or Eclipse
 #### Summary of setup
 You must have java installed in your power shell. Big suggestion to have GitHub desktop installed in your computer, this can make the clonning easier. If you want to ran the unit test you must have gradle installed.
 
+#### Configuration
+1.Clone the repository:
+```

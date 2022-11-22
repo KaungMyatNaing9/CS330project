@@ -29,12 +29,14 @@ gh repo clone KaungMyatNaing9/CS330project
 $ cd CS330project
 ```
 If you are already in that directory you can skip this step.
+
 3. You can follow the promt below to direct you to the place where I saved my programming part:
 ```
 ~/CS330project$ cd src
 ~/CS330project/src$ cd Programming
 ```
 Now you can start to run the codes.
+
 4. To run the codes you can use " java filename.java " as following:
 ```
 ~/CS330project/src/Programming$ java securitydevice.java

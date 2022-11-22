@@ -18,3 +18,5 @@ You must have java installed in your power shell. Big suggestion to have GitHub 
 #### Configuration
 1.Clone the repository:
 ```
+git clone https://github.com/KaungMyatNaing9/CS330project.git
+```

@@ -29,4 +29,4 @@ gh repo clone KaungMyatNaing9/CS330project
 cd CS330project
 ```
 If you are already in that directory you can skip this step.
-3. 
+3. d

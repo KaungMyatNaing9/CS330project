@@ -47,13 +47,14 @@ For the second part and
 ```
 For the first part
 
-5. If you have gradle you can do unit test by
+Additional unit test
+If you have gradle you can do unit test by
 ```
 $ ./gradlew test
 ```
-Or by jacoco unit test by
+Build an executable jar by
 ```
-$ ./gradlew jacocoTestReport
+$ ./gradlew jar
 ```
 
 ## Bugs solved as

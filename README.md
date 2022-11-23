@@ -47,6 +47,15 @@ For the second part and
 ```
 For the first part
 
+5. If you have gradle you can do unit test by
+```
+$ ./gradlew test
+```
+Or by jacoco unit test by
+```
+$ ./gradlew jacocoTestReport
+```
+
 ## Bugs solved as
 1. Inputs of negative integers will mark as positive in this program
 2. Inputs with two or more numbers at a time will mark as useless and check the access code from the starting

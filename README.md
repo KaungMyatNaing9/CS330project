@@ -57,6 +57,7 @@ Build an executable jar by
 ```
 $ ./gradlew jar
 ```
+These are the only step that I understand for gradle, sorry about that.
 
 ## Bugs solved as
 1. Inputs of negative integers will mark as positive in this program
